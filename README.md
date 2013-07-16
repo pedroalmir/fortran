@@ -1,4 +1,4 @@
 fortran
 =======
 
-Cálculo do coeficiente de parentesco de caprinos usando Fortran.
+Cálculo da matriz de parentesco de caprinos usando Fortran 90.
