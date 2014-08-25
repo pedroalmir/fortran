@@ -3,7 +3,7 @@ PROGRAM calcMatrix
 !
 !  This program ...
 !
-!  @author Flavio and Pedro Almir
+!  @author Pedro Almir
 !
 !---------------------------------------------------------------------
 IMPLICIT NONE
